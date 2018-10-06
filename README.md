@@ -1,0 +1,2 @@
+# TaiJiView
+测试第一个自定义View和androidStudio的Github管理
