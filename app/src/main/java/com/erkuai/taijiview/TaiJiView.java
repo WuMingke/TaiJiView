@@ -68,5 +68,6 @@ public class TaiJiView extends View {
     public void startAnim(float degrees){
         this.degrees = degrees;
         postInvalidate();
+
     }
 }
